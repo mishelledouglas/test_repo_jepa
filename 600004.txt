@@ -1,0 +1,26 @@
+TaxonKey	600004
+TaxonName	E_ringens
+DemPel	P
+MaxDepth	200
+MinDepth	3
+DiffCoef	64.751
+IntrinsicR	1.836
+Linf	21
+VBonK	0.85
+LwA	0.005
+LwB	3.121
+ArrCoef0	4.5
+ArrCoef1	8
+AlloScal0	0.7
+AlloScal1	1
+HabAssocIce	0
+HabAssocSal	0 1 1 0 0
+HabAssocCoral	0
+HabAssocUpwell	1
+Inshore	0.75
+Shelf	0.25
+Offshore	0
+HQ10Met	0
+MaxCatch	13058020
+HQ10Mort	0
+HQ10LarvMort	0
